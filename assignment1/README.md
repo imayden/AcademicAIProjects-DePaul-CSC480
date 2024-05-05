@@ -2,8 +2,6 @@
 
 ## 1. Student Info.
 - Name: Ayden Deng
-- Student ID: 2121072
-- Campus Connect username: ydeng24
 - E-mail: ydeng24@depaul.edu
 
 ## 2. Assignment1 Project
