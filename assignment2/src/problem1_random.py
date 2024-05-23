@@ -4,7 +4,6 @@
 # Speed Complexity: O(N)
 
 # Ayden Deng
-# ID: 2121072
 # E-mail: ydeng24@depaul.edu
 
 import random
